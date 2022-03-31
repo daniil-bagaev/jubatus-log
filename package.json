@@ -1,0 +1,22 @@
+{
+  "name": "jubatus-log",
+  "version": "0.0.0",
+  "description": "logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniil-bagaev/jubatus-log.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Jubatus Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniil-bagaev/jubatus-log/issues"
+  },
+  "homepage": "https://github.com/daniil-bagaev/jubatus-log#readme"
+}
