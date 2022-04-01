@@ -1,6 +1,6 @@
 {
   "name": "jubatus-log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "logger",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/daniil-bagaev/jubatus-log.git"
   },
-  "keywords": [
-    "logger"
-  ],
-  "author": "Jubatus Team",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/daniil-bagaev/jubatus-log/issues"
   },
-  "homepage": "https://github.com/daniil-bagaev/jubatus-log#readme"
+  "homepage": "https://github.com/daniil-bagaev/jubatus-log#readme",
+  "keywords": [
+    "ansi",
+    "terminal", "console", "shell", "xterm",
+    "formating", "text",
+    "log", "logging"
+  ],
+  "author": "Jubatus Team",
+  "contributors": [
+    "Daniil Bagaev <daniil.bagaev@yahoo.com>"
+  ],
+  "license": "MIT"
 }
